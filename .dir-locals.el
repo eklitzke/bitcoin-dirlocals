@@ -11,4 +11,6 @@
  (c-mode . ((c-file-style . "BSD")
             (c-basic-offset . 4)))
  (c++-mode . ((c-file-style . "BSD")
-              (c-basic-offset . 4))))
+              (c-basic-offset . 4)))
+ (python-mode . ((python-enable-yapf-format-on-save . nil)))
+ )
